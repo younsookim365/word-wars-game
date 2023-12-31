@@ -25,6 +25,6 @@ Play the game by entering a word. Both players must agree on the word.
 ![image](https://github.com/basgbasg/test/assets/133644970/9b5bce09-cc2a-4c11-aa3e-3e24303eebe4)
 
 ### End Game
-The game continues until a player is unable to create any more words with the remaining alphabet list. When a player cannot proceed, they must enter the sentinel value "???" to quit the game. The winner is then determined by comparing the accumulated points of the players. The player with the highest points is declared the winner, or the game is considered tied if both players have the same score.
+The game ends if a player enters the sentinel value "???". 
 
 ![image](https://github.com/basgbasg/test/assets/133644970/42ff519b-9df1-41bd-b355-81b1be7d277e)
